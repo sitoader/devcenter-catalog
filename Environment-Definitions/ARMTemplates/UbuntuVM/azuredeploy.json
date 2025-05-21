@@ -4,7 +4,7 @@
     "parameters": {
         "location": {
             "type": "string",
-            "defaultValue": "northeurope"
+            "defaultValue": "swedencentral"
         },
         "networkInterfaceName1": {
             "type": "string",
